@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div{
+  border: 3px solid slategray;
+  display: inline-block;
+  margin-left: 45%;  
+  width: 200px; 
+}
